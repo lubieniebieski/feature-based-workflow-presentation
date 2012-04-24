@@ -1,6 +1,7 @@
 # Few slides about workflow with Git & Pivotal Tracker
 
 ## Table of contents
+
 0. hi, @lubieniebieski
 1. Introduction
 * Idea
