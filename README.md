@@ -29,7 +29,7 @@
 4. Pros
   * no need to put story ID
 5. Cons
-  * big projects
+  * big big projects
 6. Summary
   * saves time
   * easy to apply
